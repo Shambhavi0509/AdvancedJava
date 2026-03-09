@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Problem7 {
+public class SearchAutocompleteSystem { {
 
     // Global frequency storage
     private static HashMap<String, Integer> queryFrequency = new HashMap<>();
