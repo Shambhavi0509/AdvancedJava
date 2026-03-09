@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Problem10 {
+public class MultiLevelCacheSystem {
 
     // Simulated Database (L3)
     private static HashMap<String, String> database = new HashMap<>();
