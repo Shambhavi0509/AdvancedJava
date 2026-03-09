@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Problem1 {
+public class UsernameSystem { {
 
     // Username -> userId mapping
     private static HashMap<String, Integer> usernameMap = new HashMap<>();
