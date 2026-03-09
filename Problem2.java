@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Problem2 {
+public class InventoryManager {
 
     // ProductId -> Stock Count
     private static HashMap<String, Integer> inventory = new HashMap<>();
