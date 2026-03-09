@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Problem8 {
+public class ParkingLotSystem {
 
     enum Status { EMPTY, OCCUPIED }
 
