@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Problem9 {
+public class TransactionAnalyzer {
 
     static class Transaction {
         int id;
