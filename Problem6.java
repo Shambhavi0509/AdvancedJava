@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Problem6 {
+public class TokenBucketRateLimiter {
 
     // TokenBucket class
     static class TokenBucket {
