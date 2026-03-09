@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Problem4 {
+public class DocumentSimilarityAnalyzer {
 
     // n-gram -> set of document IDs
     private static HashMap<String, Set<String>> ngramIndex = new HashMap<>();
