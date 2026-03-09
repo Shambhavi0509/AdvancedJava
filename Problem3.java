@@ -1,6 +1,7 @@
 import java.util.*;
 
-public class Problem3 {
+
+public class DNSCacheSystem {
 
     // DNS Entry class
     static class DNSEntry {
