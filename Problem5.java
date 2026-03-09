@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Problem5 {
+public class WebsiteAnalyticsSystem {
 
     // pageUrl -> total visit count
     private static HashMap<String, Integer> pageViews = new HashMap<>();
